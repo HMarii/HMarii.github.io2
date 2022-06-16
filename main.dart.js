@@ -37917,20 +37917,20 @@ n.d="F\xe9rfi"}else{n.e=19.2
 n.d="N\u0151"}s.ac(new A.SQ(n,s))}else s.ac(new A.SR(s))}},
 $S:0}
 A.SQ.prototype={
-$0(){var s="A testzs\xedrsz\xe1zal\xe9kod t\xfal alacsony!",r="assets/skinny.gif",q="A testzs\xedrsz\xe1zal\xe9kod t\xfal magas!",p="assets/fat.gif",o=this.b,n=this.a,m=o.r=n.e-0.239*n.c+0.8*n.a-0.5*n.b
-if(n.d==="N\u0151")if(m<10){o.w=s
-o.x=r
-o.y=!0}else if(m>=10&&m<=31){o.w="A testzs\xedrsz\xe1zal\xe9kod optim\xe1lis!"
-o.x="assets/healthy.gif"
-o.y=!0}else{o.w=q
-o.x=p
-o.y=!0}else if(m<2){o.w=s
-o.x=r
-o.y=!0}else if(m>=2&&m<=24){o.w=s
-o.x=r
-o.y=!0}else{o.w=q
-o.x=p
-o.y=!0}},
+$0(){var s="A testzs\xedrsz\xe1zal\xe9kod t\xfal alacsony!",r="assets/skinny.gif",q="A testzs\xedrsz\xe1zal\xe9kod optim\xe1lis!",p="assets/healthy.gif",o="A testzs\xedrsz\xe1zal\xe9kod t\xfal magas!",n="assets/fat.gif",m=this.b,l=this.a,k=m.r=l.e-0.239*l.c+0.8*l.a-0.5*l.b
+if(l.d==="N\u0151")if(k<10){m.w=s
+m.x=r
+m.y=!0}else if(k>=10&&k<=31){m.w=q
+m.x=p
+m.y=!0}else{m.w=o
+m.x=n
+m.y=!0}else if(k<2){m.w=s
+m.x=r
+m.y=!0}else if(k>=2&&k<=24){m.w=q
+m.x=p
+m.y=!0}else{m.w=o
+m.x=n
+m.y=!0}},
 $S:0}
 A.SR.prototype={
 $0(){var s=this.a
